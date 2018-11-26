@@ -62,7 +62,7 @@ Project Description: Boots, a leading UK retailer, wanted to extend the reach of
 
 Project Contribution: I was engaged as the Lead User Interface Design Consultant. I ran user test sessions to determine the optimal interaction model and provided guidance to the User Interface Designer who was responsible for producing the MyStoreNet UI Specification.
 
-### O2 Companion   08/2002 - 08/2004      
+#### O2 Companion   08/2002 - 08/2004      
 Project Description: O2 is one of the leading mobile networks in the UK. The O2 Wholesale SMS Shop enabled O2 business customers to register, purchase and configure wholesale SMS products online (www.o2.co.uk), and O2 Retail Gateway enabled O2 stores and O2 resellers to provision mobile phones onto the O2 network.
 
 Project Contribution:  I was been responsible for designing the user experience for several online systems including the O2 Wholesale SMS Shop and O2 Retail Gateway. My responsibilities included gathering the business and user requirements, scenarios and the designing the user experience. I produced detailed UI Specifications which included high level flows and detailed wireframes. These specifications were then used in user testing and by the global development and test teams to build and test the systems.  
