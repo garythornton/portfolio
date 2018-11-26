@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-title: Portfolio - Gary Thornton # your site title
+title: Gary Thornton # your site title
 author: Gary Thornton # You :P
 description: > # Meta description of Homepage
   Gary Thornton, User Experience Architect, Portfolio and CV.
@@ -24,7 +24,7 @@ navigation: # Navigation links
   - {name: 'Contact', link: '/contact'}
 
 tagline: >
-  Welcome to my portfolio and CV.
+  User Experience Architect - Portfolio and CV.
 
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
