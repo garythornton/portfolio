@@ -2,7 +2,7 @@
 title: Portfolio - Gary Thornton # your site title
 author: Gary Thornton # You :P
 description: > # Meta description of Homepage
-Gary Thornton, User Experience Architect, Portfolio and CV.
+  Gary Thornton, User Experience Architect, Portfolio and CV.
 baseurl: "/portfolio" # the subpath of your site, e.g. /blog
 url: "https://janczizikow.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
