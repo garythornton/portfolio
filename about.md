@@ -8,7 +8,7 @@ permalink: /about/
 ### Profile
 -->
 <div>
-  <img src="https://pages.github.ibm.com/THORNG/garythornton-portfolio/assets/img/posts/gtcircle.png" alt="Gary Thornton" align="left" style="width:20%;margin-right:20px;">
+  <img src="/assets/img/posts/gtcircle.png" alt="Gary Thornton" align="left" style="width:20%;margin-right:20px;">
 <p style="font-size:1.1em;margin-top:10px;">
 I am a User Experience Architect and Design Lead, specializing in UX design, information architecture and visual design. I have had over 35 years experience of leading design teams, designing and developing user experiences for award-winning interactive applications, on a wide variety of IBM software projects and IBM business consulting engagements for major brands. My work has spanned all industry sectors.</p> </div>
 
