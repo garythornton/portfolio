@@ -17,7 +17,7 @@ I am a User Experience Architect and Design Lead, specializing in UX design, inf
 
 
 
-![Client list](https://pages.github.ibm.com/THORNG/garythornton-portfolio/assets/img/posts/clientlist.jpg)
+![Client list](/assets/img/posts/clientlist.jpg)
 
 #### Key skills
 * User experience design
@@ -34,7 +34,7 @@ I am a User Experience Architect and Design Lead, specializing in UX design, inf
 * Outstanding Technical Achievement Award (OTAA) for App Connect iPaaS (x3)
 &nbsp; 
 
-![Digital credentials](https://pages.github.ibm.com/THORNG/garythornton-portfolio/assets/img/posts/Creds.png)
+![Digital credentials](/assets/img/posts/Creds.png)
 
 
 &nbsp;
