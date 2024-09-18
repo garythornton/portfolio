@@ -8,7 +8,7 @@ permalink: /about/
 ### Profile
 -->
 <div>
-  <img src="/assets/img/posts/gtcircle.png" alt="Gary Thornton" align="left" style="width:20%;margin-right:20px;">
+  <img src="https://pages.github.ibm.com/THORNG/garythornton-portfolio/assets/img/posts/gtcircle.png" alt="Gary Thornton" align="left" style="width:20%;margin-right:20px;">
 <p style="font-size:1.1em;margin-top:10px;">
 I am a User Experience Architect and Design Lead, specializing in UX design, information architecture and visual design. I have had over 35 years experience of leading design teams, designing and developing user experiences for award-winning interactive applications, on a wide variety of IBM software projects and IBM business consulting engagements for major brands. My work has spanned all industry sectors.</p> </div>
 
@@ -17,7 +17,7 @@ I am a User Experience Architect and Design Lead, specializing in UX design, inf
 
 
 
-![Client list](/assets/img/posts/clientlist.jpg)
+![Client list](https://pages.github.ibm.com/THORNG/garythornton-portfolio/assets/img/posts/clientlist.jpg)
 
 #### Key skills
 * User experience design
@@ -34,7 +34,7 @@ I am a User Experience Architect and Design Lead, specializing in UX design, inf
 * Outstanding Technical Achievement Award (OTAA) for App Connect iPaaS (x3)
 &nbsp; 
 
-![Digital credentials](/assets/img/posts/Creds.png)
+![Digital credentials](https://pages.github.ibm.com/THORNG/garythornton-portfolio/assets/img/posts/Creds.png)
 
 
 &nbsp;
@@ -86,7 +86,5 @@ Whilst at college studying Graphic Design I worked part time as a [games designe
   </div></div> 
 
 -->
-
-
 
 
