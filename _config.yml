@@ -20,9 +20,9 @@ social:
 
 # THEME SETTINGS
 navigation: # Navigation links
-  - {name: 'Portfolio', link: '/portfolio/'}
-  - {name: 'Profile2', link: '/portfolio/about'}
-  - {name: 'Contact', link: '/portfolio/contact'}
+  - {name: 'Portfolio', link: '/'}
+  - {name: 'Profile2', link: '/about'}
+  - {name: 'Contact', link: '/contact'}
 
 tagline: >
   User Experience Design
