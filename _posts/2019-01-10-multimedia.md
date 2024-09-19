@@ -20,7 +20,7 @@ Lever commissioned IBM e-business to create a multi-lingual, multi-brand pan-Eur
  
 ---
 ### Vauxhall Astra CD-ROM  
-![Vauxhall CDROM](https://pages.github.ibm.com/THORNG/garythornton-portfolio/assets/img/posts/astracdrom.jpg)
+![Vauxhall CDROM](portfolio/assets/img/posts/astracdrom.jpg)
 As Lead Designer on the Vauxhall Astra CD-ROM engagement, I was responsible for the UX and visual design. I art-directed a team of designers, animators and musicians throughout production, and worked closely with the technical team. The CD-ROM was designed to allow the user to experience the features of the New Astra, configure their ideal car, view finance options via the internet, and locate their nearest dealer.
 
 &nbsp;
