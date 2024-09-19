@@ -22,35 +22,35 @@ After we reviewed the various briefing materials I asked the offering manager to
 
 The first exercise was to create **Empathy Maps** for the two primary personas...
 
-![Design Thinking](https://pages.github.ibm.com/THORNG/garythornton-portfolio/assets/img/posts/cog_emp.jpg)
+![Design Thinking](https://garythornton.github.io/portfolio/assets/img/posts/cog_emp.jpg)
 
 We then created an **As-is Scenario Map** to identify key pain points...
 
-![Design Thinking](https://pages.github.ibm.com/THORNG/garythornton-portfolio/assets/img/posts/cog_scenariomap.jpg)
+![Design Thinking](https://garythornton.github.io/portfolio/assets/img/posts/cog_scenariomap.jpg)
 
 Next we created **Needs Statements** to address those pain points...
 
-![Design Thinking](https://pages.github.ibm.com/THORNG/garythornton-portfolio/assets/img/posts/cog_needs.jpg)
+![Design Thinking](https://garythornton.github.io/portfolio/assets/img/posts/cog_needs.jpg)
 
 ...and prioritised the **Big Ideas** based on the Needs Statements...
 
-![Design Thinking](https://pages.github.ibm.com/THORNG/garythornton-portfolio/assets/img/posts/cog_bigideas.jpg)
+![Design Thinking](https://garythornton.github.io/portfolio/assets/img/posts/cog_bigideas.jpg)
 
 We used the Needs Statements and Big Ideas to generate and refine the **Hills**...
 
-![Design Thinking](https://pages.github.ibm.com/THORNG/garythornton-portfolio/assets/img/posts/cog_hills.jpg)
+![Design Thinking](https://garythornton.github.io/portfolio/assets/img/posts/cog_hills.jpg)
 
 The Hills were then used to inspire **storyboards**...
 
-![Design Thinking](https://pages.github.ibm.com/THORNG/garythornton-portfolio/assets/img/posts/cog_storyboard.jpg)
+![Design Thinking](https://garythornton.github.io/portfolio/assets/img/posts/cog_storyboard.jpg)
 
 We then co-created and iterated on **paper prototypes**, and used them for **user testing**...
 
-![Design Thinking](https://pages.github.ibm.com/THORNG/garythornton-portfolio/assets/img/posts/cog_paper.jpg)
+![Design Thinking](https://garythornton.github.io/portfolio/assets/img/posts/cog_paper.jpg)
 
 ...before producing **hi-fidelity mockups** ready for Playback 0.
 
-![Design Thinking](https://pages.github.ibm.com/THORNG/garythornton-portfolio/assets/img/posts/cog_hifi.jpg)
+![Design Thinking](https://garythornton.github.io/portfolio/assets/img/posts/cog_hifi.jpg)
 
 
 
