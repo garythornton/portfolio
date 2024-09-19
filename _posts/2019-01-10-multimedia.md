@@ -13,7 +13,7 @@ Here are just a few of my projects from this period...
 
 ---
 ### Persil CD-ROM
-![Persil CDROM](/assets/img/posts/persilcdrom.jpg)
+![Persil CDROM](https://garythornton.github.io/portfolio/assets/img/posts/persilcdrom.jpg)
 Lever commissioned IBM e-business to create a multi-lingual, multi-brand pan-European CD-ROM, to be used as a marketing device for Lever’s premium-brand washing powder (Persil, Via, Omo, Skip etc). The CD features advice on clothes-care, a VR ‘washing throughout history’ tour and a game for small children. I was responsible for the UX and visual design.
 
 &nbsp;
