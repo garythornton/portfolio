@@ -12,7 +12,7 @@ From 2000 to 2007 I was a creative consultant in IBM Global Business Services, r
 ---
 ### FT.com  
   
-![FT.com 2001](https://pages.github.ibm.com/THORNG/garythornton-portfolio/assets/img/posts/FT2.jpg)
+![FT.com 2001](https://garythornton.github.io/portfolio/assets/img/posts/FT2.jpg)
     
 Project Description: In 2001 the Financial Times engaged IBM Global Business Services to help them migrate their free, advertiser-based online publication to a fully re-designed subscription-based service.
 
@@ -27,7 +27,7 @@ In 2003 FT.com won the media category of the **New Media Age Effectiveness Award
 ---
 ### Vodafone UK Intranet   
   
-![Shell Online](https://pages.github.ibm.com/THORNG/garythornton-portfolio/assets/img/posts/vf1.jpg)
+![Shell Online](https://garythornton.github.io/portfolio/assets/img/posts/vf1.jpg)
 
 Project Description: Vodafone UK engaged IBM to re-design their Intranet site.
 
@@ -38,7 +38,7 @@ Project Contribution: Working on-site as part of the consulting team, I was resp
 ---
 ### Shell Online Portal   
   
-![Shell Online](https://pages.github.ibm.com/THORNG/garythornton-portfolio/assets/img/posts/Shell.jpg)
+![Shell Online](https://garythornton.github.io/portfolio/assets/img/posts/Shell.jpg)
 
 Project Description: The Shell Online portal was intended to be the new desktop, giving employees and contractors a view of Shell as a whole enterprise.
 
@@ -49,7 +49,7 @@ Project Contribution: I was part of an IBM project team designing and developing
 ---
 ### O2 Wholesale and Retail Gateway      
   
-![O2 Retail 2002](https://pages.github.ibm.com/THORNG/garythornton-portfolio/assets/img/posts/O21.jpg)
+![O2 Retail 2002](https://garythornton.github.io/portfolio/assets/img/posts/O21.jpg)
 
 Project Description: O2 is one of the leading mobile networks in the UK. The O2 Wholesale SMS Shop enabled O2 business customers to register, purchase and configure wholesale SMS products online, and O2 Retail Gateway enabled O2 stores and O2 resellers to provision mobile phones onto the O2 network.
 
