@@ -16,13 +16,13 @@ From 2014 to 2016 as Design Lead for IBM DataPower Gateways I was responsible fo
 
 As the Datapower Design Lead I worked closely with the Offering Managment team, architects and customers to design the next generation user experience for the gateway appliance.
 
-![DPm](https://pages.github.ibm.com/THORNG/garythornton-portfolio/assets/img/posts/dp_story.jpg)
+![DPm](https://garythornton.github.io/portfolio/assets/img/posts/dp_story.jpg)
     
  I shared designs and discussed requirements with customers at the IBM Interconnect conference in Las Vegas during several feedback sessions.  
 
 Here is part of the Playback 0 story...
 
-![DPm](https://pages.github.ibm.com/THORNG/garythornton-portfolio/assets/img/posts/dpm1-ani.gif)
+![DPm](https://garythornton.github.io/portfolio/assets/img/posts/dpm1-ani.gif)
 
 &nbsp;
 &nbsp;
@@ -31,7 +31,7 @@ Here is part of the Playback 0 story...
 
 API Connect is powered by the Datapower gateway so I had various opportunities to work with the API Connect team on various capabilities, including exploring ideas for versioning and user access management.
 
-![API Connect](https://pages.github.ibm.com/THORNG/garythornton-portfolio/assets/img/posts/apic_wire.jpg)
+![API Connect](https://garythornton.github.io/portfolio/assets/img/posts/apic_wire.jpg)
 
 
 &nbsp;
@@ -41,7 +41,7 @@ API Connect is powered by the Datapower gateway so I had various opportunities t
 
 The IBM API Connect Developer portal is a Drupal-based site that can be customized by IBM customers to match their brand's design language. I produced the out-of-the box user experience and styling. 
 
-![API Connect Dev Portal](https://pages.github.ibm.com/THORNG/garythornton-portfolio/assets/img/posts/apic_portal.jpg)
+![API Connect Dev Portal](https://garythornton.github.io/portfolio/assets/img/posts/apic_portal.jpg)
 
 
 
