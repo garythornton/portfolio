@@ -4,7 +4,7 @@ author: Gary Thornton # You :P
 description: > # Meta description of Homepage
   Gary Thornton, User Experience Architect, Portfolio and CV.
 baseurl: "/garythornton/portfolio" # the subpath of your site, e.g. /blog
-url: "http://pages.github.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://garythornton.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 social:
