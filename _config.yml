@@ -21,7 +21,7 @@ social:
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Portfolio', link: '/'}
-  - {name: 'Profile', link: '/about'}
+  - {name: 'Profile2', link: '/about'}
   - {name: 'Contact', link: '/contact'}
 
 tagline: >
