@@ -27,7 +27,7 @@ As Lead Designer on the Vauxhall Astra CD-ROM engagement, I was responsible for 
  
 ---
 ### Legal & General kiosk 
-![lgkiosk](https://garythornton.github.io/portfolio/assets/assets/img/posts/lgkiosk.jpg)
+![lgkiosk](https://garythornton.github.io/portfolio/assets/img/posts/lgkiosk.jpg)
 In 1996 Legal & General engaged IBM to create a touch-screen kiosk to introduce potential customers to their products and services, whilst guiding them through the home buying process. I created the 'virtual village' using 3D Studio Max, and later built a SuperScape VR version for inclusion on their web site.
 
 <video width="400" height="300" controls>
