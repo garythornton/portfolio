@@ -6,7 +6,7 @@ featured-img: mm
 
 
 
-## Digital media solutions
+## Digital media solutions WIBBLE
 When the UK Interactive Media Centre was set up in 1992, I was the first designer in the team, responsible for designing and producing a broad spectrum of digital media solutions including Interactive TV, CD-ROM's, VR and kiosk applications.
 
 Here are just a few of my projects from this period...
