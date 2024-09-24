@@ -60,6 +60,6 @@ We then co-created and iterated on **paper prototypes**, and used them for **use
 
 Here is the playback which tells the story of Jenny, the Accounting Manager using the proposed designs...
 
-![Design Thinking](https://pages.github.ibm.com/THORNG/garythornton-portfolio/assets/img/posts/Controller-ani2.gif)
+![Design Thinking](https://garythornton.github.io/portfolio/assets/img/posts/Controller-ani2.gif)
 
 
