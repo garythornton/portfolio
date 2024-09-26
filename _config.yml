@@ -22,7 +22,7 @@ social:
 navigation: # Navigation links
   - {name: 'Portfolio', link: '/'}
   - {name: 'Profile', link: '/about'}
-  - {name: 'Contact', link: '/contact'}
+#  - {name: 'Contact', link: '/contact'}
 
 tagline: >
   User Experience Design
