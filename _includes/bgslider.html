@@ -1,0 +1,50 @@
+<style>
+
+.container3 {
+  overflow: hidden;
+  margin-top:50px ;
+}
+.container4 {
+  overflow: hidden;
+}
+
+.sliding-background {
+  background: url("https://garythornton.github.io/portfolio/assets/img/posts/caro2.jpg") repeat-x;
+  height: 184px;
+  width: 14520px;
+  animation: slide 60s linear infinite;
+}
+.sliding-background2 {
+  background: url("https://garythornton.github.io/portfolio/assets/img/posts/clientlist.jpg") repeat-x;
+  height: 310px;
+  width: 1854px;
+  animation: slide2 60s linear infinite;
+}
+
+@keyframes slide{
+  0%{
+    transform: translate3d(0, 0, 0);
+  }
+  100%{
+    transform: translate3d(-4840px, 0, 0);
+  }
+}
+  
+  @keyframes slide2{
+  0%{
+    transform: translate3d(0, 0, 0);
+  }
+  100%{
+    transform: translate3d(-1854px, 0, 0);
+  }
+}
+</style>
+<body>
+<div class="container3">
+  <div class="sliding-background">
+  </div>
+<!--
+<div class="container4">
+  <div class="sliding-background2"></div>
+</div>
+-->
