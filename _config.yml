@@ -21,7 +21,7 @@ social:
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Portfolio', link: '/8f180f4d437888a0397dd692eb3b098b7361d146'}
-  - {name: 'Profile', link: '/8f180f4d437888a0397dd692eb3b098b7361d146/about'}
+  - {name: 'Profile', link: '/about'}
 #  - {name: 'Contact', link: '/contact'}
 
 tagline: >
