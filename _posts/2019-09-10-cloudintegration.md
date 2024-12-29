@@ -16,4 +16,4 @@ App Connect is a key capability within the IBM Integration portfolio, and IBM Cl
 
 ![cp4i](https://garythornton.github.io/portfolio/assets/img/posts/cp4i-e2e2.jpg)
 
-Early in 2019 I facilited several design workshops with Design Leads from across the integration portfolio to align key integration patterns, including navigation systems. This in turn led to me working in a cross-portfolio workgroup responsible for aligning navigation systems for all IBM Cloud Paks.
+Early in 2019 I facilitated several design workshops with Design Leads from across the integration portfolio to align key integration patterns, including navigation systems. This in turn led to me working in a cross-portfolio workgroup responsible for aligning navigation systems for all IBM Cloud Paks.
