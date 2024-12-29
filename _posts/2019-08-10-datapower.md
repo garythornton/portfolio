@@ -14,7 +14,7 @@ From 2014 to 2016 as Design Lead for IBM DataPower Gateways I was responsible fo
  
 ### The next generation Datapower UX  
 
-As the Datapower Design Lead I worked closely with the Offering Managment team, architects and customers to design the next generation user experience for the gateway appliance.
+As the Datapower Design Lead I worked closely with the Product Management team, architects and customers to design the next generation user experience for the gateway appliance.
 
 ![DPm](https://garythornton.github.io/portfolio/assets/img/posts/dp_story.jpg)
     
