@@ -45,8 +45,7 @@ I am a User Experience Architect and Design Lead, specializing in UX design, inf
 
 <P style="font-size:.75rem;color:gray;margin-bottom:.05rem;margin-top:1.3rem;">2016 – Dec 2024</P>  
 **User Experience Architect, IBM App Connect and Integration Portfolio**  
-Responsible for the user experience architecture and design for IBM App
-Connect Enterprise. IBM App Connect Enterprise is a powerful platform for
+Responsible for the user experience architecture and design for [IBM App Connect Enterprise](/_posts/2019-12-10-IBMAppConnect.md). IBM App Connect Enterprise is a powerful platform for
 easily connecting apps, integrating data, building APIs and acting on events.
 Partnered with Product Managers, Architects, technical leads and other
 designers to design award-winning experiences using Enterprise Design
@@ -70,9 +69,8 @@ Achievement Awards (corporate-level awards).
 *	Created ‘Playback Zero’ decks, which utilize storytelling to align the product teams on what will be implemented.
 *	Designed IBM Automation Explorer, an online hub for discovering, learning and accessing IBM-supported and community-built integration assets.
 *	Designed the Connector Development Kit (CDK) and conducted user tests leveraging a sophisticated Figma prototype.
-*	Facilitated design workshops with Design Leads from across the integration portfolio to align key integration patterns, including navigation systems. Then led a cross-portfolio workgroup responsible for aligning navigation systems for all IBM Cloud Paks.
+*	Facilitated design workshops with Design Leads from across the integration portfolio to align key integration patterns, including navigation systems. Then led a cross-portfolio workgroup responsible for aligning navigation systems for all [IBM Cloud Paks](/_posts/2019-09-10-cloudintegration.md).
 *	Designed the initial skills catalog and skill builder UX for Watson Orchestrate.
-  
 
 <P style="font-size:.75rem;color:gray;margin-bottom:.05rem;">2014 to 2016</P>         
 **Design Lead, IBM DataPower Gateways**  
