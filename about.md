@@ -66,6 +66,15 @@ in 2018 won the iF design award.
 Mapping Assist and Data Assist, which assist users with mapping and
 transforming data between apps. Awarded multiple Outstanding Technical
 Achievement Awards (corporate-level awards).
+*	Conducted competitive analysis and concept testing.
+*	Created ‘Playback Zero’ decks, which utilize storytelling to align the product teams on what will be implemented.
+*	Designed IBM Automation Explorer, an online hub for discovering, learning and accessing IBM-supported and community-built integration assets.
+*	Designed the Connector Development Kit (CDK) and conducted user tests leveraging a sophisticated Figma prototype.
+*	Facilitated design workshops with Design Leads from across the integration portfolio to align key integration patterns, including navigation systems. Then led a cross-portfolio workgroup responsible for aligning navigation systems for all IBM Cloud Paks.
+*	Designed the initial skills catalog and skill builder UX for Watson Orchestrate.
+  
+![image](https://github.com/user-attachments/assets/74f1eb06-0244-4b15-9ab2-4426b83fc98a)
+
 
 <P style="font-size:.75rem;color:gray;margin-bottom:.05rem;">2014 to 2016</P>         
 **Design Lead, IBM DataPower Gateways**  
