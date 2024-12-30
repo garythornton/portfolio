@@ -95,8 +95,6 @@ Whilst at college studying Graphic Design I worked part time as a [games designe
     <iframe style="width:500px;height:350px;display:block;margin-left:auto;margin-right:auto;" src="https://www.youtube.com/embed/vZ4mhFfWcqA?si=DfneZBOIExRu2OeF?start=1"></iframe>
  </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vZ4mhFfWcqA?si=DfneZBOIExRu2OeF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 <P style="text-align:center;margin-bottom:.05rem;margin-top:1rem;font-size:.95rem;">  
  "This is a superb game. The graphics simply dazzle with the hero well drawn and beautifully animated."</P>
 <P style="text-align:center;margin-bottom:.05rem;margin-top:.4rem;font-size:.95rem;">  
