@@ -21,12 +21,13 @@ I am a User Experience Architect and Design Lead, specializing in UX design, inf
 
 #### Key skills
 * User experience design
+* Information architecture
 * Enterprise Design Thinking
 * Design leadership 
 * Creative consultancy
-* Information architecture
-* Usability and accessibility
+* Usability & accessibility
 * Visual design & animation
+
 
 #### Major awards
 * iF 2018 for App Connect
@@ -45,6 +46,30 @@ I am a User Experience Architect and Design Lead, specializing in UX design, inf
 <P style="font-size:.75rem;color:gray;margin-bottom:.05rem;margin-top:1.3rem;">2016 to date</P>  
 **User Experience Architect, IBM App Connect and Integration Portfolio**  
 I am currently responsible for the user experience architecture and design for [IBM App Connect](/_posts/2019-10-10-IBMAppConnect.md). I work closely with the other members of the design team, offering managers and architects to design the award-winning experience. I also work on projects across the [IBM Integration portfolio](/_posts/2019-09-10-cloudintegration.md). 
+
+
+<P style="font-size:.75rem;color:gray;margin-bottom:.05rem;margin-top:1.3rem;">2016 – Dec 2024</P>  
+**User Experience Architect, IBM App Connect and Integration Portfolio**  
+Responsible for the user experience architecture and design for IBM App
+Connect Enterprise. IBM App Connect Enterprise is a powerful platform for
+easily connecting apps, integrating data, building APIs and acting on events.
+Partnered with Product Managers, Architects, technical leads and other
+designers to design award-winning experiences using Enterprise Design
+Thinking. Worked on numerous projects across the IBM Integration and
+Automation Portfolio.
+• Responsible for the App Connect UX architecture and led the design of
+many ‘Hills’ and capabilities.
+• Led the design of the App Connect Designer flow editor that can be used
+by personas covering a broad spectrum of technical abilities and scenarios,
+ranging from business users who want to quickly automate repetitive
+tasks, through to integration specialists who want to keep mission critical
+applications in sync.
+• In 2017 IBM App Connect won a Spark award for ‘Experience Design’, and
+in 2018 won the iF design award.
+• Designed several AI-powered features for App Connect Designer including
+Mapping Assist and Data Assist, which assist users with mapping and
+transforming data between apps. Awarded multiple Outstanding Technical
+Achievement Awards (corporate-level awards).
 
 <P style="font-size:.75rem;color:gray;margin-bottom:.05rem;">2014 to 2016</P>         
 **Design Lead, IBM DataPower Gateways**  
