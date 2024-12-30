@@ -73,8 +73,6 @@ Achievement Awards (corporate-level awards).
 *	Facilitated design workshops with Design Leads from across the integration portfolio to align key integration patterns, including navigation systems. Then led a cross-portfolio workgroup responsible for aligning navigation systems for all IBM Cloud Paks.
 *	Designed the initial skills catalog and skill builder UX for Watson Orchestrate.
   
-![image](https://github.com/user-attachments/assets/74f1eb06-0244-4b15-9ab2-4426b83fc98a)
-
 
 <P style="font-size:.75rem;color:gray;margin-bottom:.05rem;">2014 to 2016</P>         
 **Design Lead, IBM DataPower Gateways**  
