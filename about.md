@@ -92,8 +92,9 @@ Prior to 1992, I worked in the IBM Hursley UK Laboratories Design Centre designi
 Whilst at college studying Graphic Design I worked part time as a [games designer](https://spectrumcomputing.co.uk/index.php?cat=999&label_id=5242). One game, Last Ninja 2, topped the games charts in December 1988.  
 
  <div class="embed-responsive embed-responsive-16by9">
-    <iframe style="width:500px;height:350px;display:block;margin-left:auto;margin-right:auto;" src="https://www.youtube.com/embed/z-fMIZZEosY?start=1"></iframe>
+    <iframe style="width:500px;height:350px;display:block;margin-left:auto;margin-right:auto;" src="https://www.youtube.com/embed/v=vZ4mhFfWcqA&t?start=1"></iframe>
  </div>
+
 
 <P style="text-align:center;margin-bottom:.05rem;margin-top:1rem;font-size:.95rem;">  
  "This is a superb game. The graphics simply dazzle with the hero well drawn and beautifully animated."</P>
