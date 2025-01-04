@@ -43,7 +43,7 @@ I am a User Experience Architect and Design Lead, specializing in UX design, inf
 ---
 ### Career summary
 
-<P style="font-size:.75rem;color:gray;margin-bottom:.05rem;margin-top:1.3rem;">2016 – Dec 2024</P>  
+<P style="font-size:.75rem;color:black;margin-bottom:.05rem;margin-top:1.3rem;">2016 – Dec 2024</P>  
 **User Experience Architect, IBM App Connect and Integration Portfolio**  
 Responsible for the user experience architecture and design for [IBM App Connect Enterprise](/_posts/2019-12-10-IBMAppConnect.md). IBM App Connect Enterprise is a powerful platform for
 easily connecting apps, integrating data, building APIs and acting on events.
@@ -72,27 +72,27 @@ Achievement Awards (corporate-level awards).
 *	Facilitated design workshops with Design Leads from across the integration portfolio to align key integration patterns, including navigation systems. Then led a cross-portfolio workgroup responsible for aligning navigation systems for all [IBM Cloud Paks](/_posts/2019-09-10-cloudintegration.md).
 *	Designed the initial skills catalog and skill builder UX for Watson Orchestrate.
 
-<P style="font-size:.75rem;color:gray;margin-bottom:.05rem;">2014 to 2016</P>         
+<P style="font-size:.75rem;color:black;margin-bottom:.05rem;">2014 to 2016</P>         
 **Design Lead, IBM DataPower Gateways**  
 As Design Lead for [IBM DataPower Gateways](/_posts/2019-08-10-datapower.md) I was responsible for designing the next generation user experience for the edge gateway appliances. During this time I also worked on several related projects for IBM API Connect.
 
-<P style="font-size:.75rem;color:gray;margin-bottom:.05rem;">2007 to 2014</P> 
+<P style="font-size:.75rem;color:black;margin-bottom:.05rem;">2007 to 2014</P> 
 **Design Lead, IBM WebSphere Service Registry and Repository (WSRR)**  
 As the Design Lead for [IBM WebSphere Service Registry and Repository (WSRR)](/_posts/2019-07-10-wsrr.md) I worked closely with the architects, offering managers and customers to design the new portal user experience. I ran customer feedback sessions at the IBM Impact and Interconnect conferences, sharing designs and prioritising user needs.
 
-<P style="font-size:.75rem;color:gray;margin-bottom:.05rem;">2000 - 2007</P>
+<P style="font-size:.75rem;color:black;margin-bottom:.05rem;">2000 - 2007</P>
 **User Experience Architect and Design Lead, IBM Global Business Services**  
 As a creative consultant in [IBM Global Business Services](/_posts/2019-03-10-designconsulting.md) I was responsible for leading design teams around the world on a variety of client engagements including the redesign of the Financial Times website, FT.com, and Shell’s Enterprise Intranet Portal. During an engagement for a global bank I led a design team of 20 including senior UI designers, visual designers, producers and client-side developers - travelling regularly between the UK, New York and San Francisco. 
 
-<P style="font-size:.75rem;color:gray;margin-bottom:.05rem;">1992 - 2000</P>
+<P style="font-size:.75rem;color:black;margin-bottom:.05rem;">1992 - 2000</P>
 **Senior User Interface Designer, IBM Business Consulting Services**  
 When the UK Interactive Media Centre was set up in 1992, I was the first designer in the team, responsible for designing and producing a broad spectrum of [digital media solutions](/_posts/2019-01-10-multimedia.md) including internet, intranet, iTV, CD-ROM's, VR and Kiosk applications. As the e-business services business expanded rapidly, I was responsible for interviewing and mentoring many of the new designers.
 
-<P style="font-size:.75rem;color:gray;margin-bottom:.05rem;">1986 - 1991</P>
+<P style="font-size:.75rem;color:black;margin-bottom:.05rem;">1986 - 1991</P>
 **Interactive Media Designer, IBM Hursley Labs**  
 Prior to 1992, I worked in the IBM Hursley UK Laboratories Design Centre designing and producing interactive media applications to market IBM's products and services. In 1988 I produced an animation which the prime minister, Margaret Thatcher was asked to initiate during press event in IBM Greenock.
 
-<P style="font-size:.75rem;color:gray;margin-bottom:.05rem;">1985 - 1987</P>
+<P style="font-size:.75rem;color:black;margin-bottom:.05rem;">1985 - 1987</P>
 **Games Designer**  
 Whilst at college studying Graphic Design I worked part time as a [games designer](https://spectrumcomputing.co.uk/index.php?cat=999&label_id=5242). One game, Last Ninja 2, topped the games charts in December 1988.  
 
