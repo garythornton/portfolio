@@ -35,6 +35,8 @@ I am a User Experience Architect and Design Lead, specializing in UX design, inf
 * Outstanding Technical Achievement Award (OTAA) for App Connect iPaaS (x3)
 &nbsp; 
 
+#### Certifications & Badges
+
 ![Digital credentials](/assets/img/posts/Creds.png)
 
 
