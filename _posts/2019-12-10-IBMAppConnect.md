@@ -8,7 +8,7 @@ featured-img: appconnect
 
 ## IBM App Connect
 
-IBM App Connect is a powerful all-in-one tool for easily connecting apps, integrating data, building APIs and acting on events. I am responsible for the App Connect UX architecture and have led the design of many Hills and capabilities, including the flow editor. In 2017 IBM App Connect won a Spark award for ‘Experience Design’, and in 2018 we won the iF design award.
+IBM App Connect is a powerful all-in-one tool for easily connecting apps, integrating data, building APIs and acting on events. I was responsible for the App Connect UX architecture and led the design of many Hills and capabilities, including the flow editor. In 2017 IBM App Connect won a Spark award for ‘Experience Design’, and in 2018 we won the iF design award.
 
 ![IBM App Connect](https://garythornton.github.io/portfolio/assets/img/posts/appconnectmain.jpg)
 
