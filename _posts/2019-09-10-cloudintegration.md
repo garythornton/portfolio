@@ -12,7 +12,7 @@ The IBM Cloud Integration platform was first launched at IBM Think in March 2018
 
 ![Sing2](https://garythornton.github.io/portfolio/assets/img/posts/singularity.jpg)
 
-App Connect is a key capability within the IBM Integration portfolio, and IBM Cloud Pak for Integration (CP4I). I work closely with the CP4I designers to ensure App Connect integrates well with the other capabilities, and create end-to-end scenario and UX-topology maps to help align the teams...  
+App Connect is a key capability within the IBM Integration portfolio, and IBM Cloud Pak for Integration (CP4I). I worked closely with the CP4I designers to ensure App Connect integrates well with the other capabilities, and create end-to-end scenario and UX-topology maps to help align the teams...  
 
 ![cp4i](https://garythornton.github.io/portfolio/assets/img/posts/cp4i-e2e2.jpg)
 
